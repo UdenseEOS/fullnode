@@ -1,0 +1,2 @@
+# fullnode
+my node
